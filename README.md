@@ -136,9 +136,7 @@ cap.release()
 
 <img width="387" height="497" alt="image" src="https://github.com/user-attachments/assets/128863ab-0d90-4c61-a2ba-f731948eb242" />
 
-## Result: 
-
-## Result
+## Result:
 
 Thus, the webcam was successfully used to capture and save images in JPG format. The video was displayed, resized, and rotated using OpenCV, demonstrating basic image acquisition and manipulation techniques.
 
